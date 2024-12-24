@@ -1,0 +1,972 @@
+
+    2024-12-24T02:49:41.736Z - 
+    Ruta: POST /login - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T03:02:41.305Z - 
+    Ruta: POST /login - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T03:07:38.768Z - 
+    Ruta: POST /login - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T03:09:58.603Z - 
+    Ruta: POST /login - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T04:09:13.009Z - 
+    Ruta: POST /login - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T04:09:30.469Z - 
+    Ruta: POST /login - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T04:16:11.730Z - 
+    Ruta: POST /login - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T04:18:05.920Z - 
+    Ruta: POST /login - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T04:18:29.364Z - 
+    Ruta: POST /login - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T04:18:49.735Z - 
+    Ruta: POST /login - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T04:19:22.409Z - 
+    Ruta: POST /login - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T05:18:16.500Z - 
+    Ruta: POST /login - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T05:19:40.450Z - 
+    Ruta: POST /login - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T05:27:01.248Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T05:27:39.452Z - 
+    Ruta: GET /login/id=0 - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T05:28:29.087Z - 
+    Ruta: GET /login?id=0 - 
+    Consultas: {"id":"0"} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T05:28:42.485Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T16:36:21.023Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T16:38:02.437Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T16:38:18.512Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T16:41:06.648Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T16:43:16.248Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T16:52:56.333Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T16:53:20.329Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T16:55:03.601Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T16:55:36.664Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T17:12:30.928Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:12:30.930Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:12:53.314Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:12:53.315Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:12:54.978Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:12:54.979Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:12:54.980Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:12:54.982Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:13:54.064Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:13:54.066Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:13:56.478Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:13:56.479Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:13:56.480Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:13:56.481Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:17:12.138Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:17:12.139Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:17:20.761Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:17:20.763Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:26:06.680Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:26:06.693Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:26:28.445Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:26:28.446Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:27:38.337Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:27:38.339Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:27:40.009Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:27:40.011Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:27:40.012Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:27:40.014Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:28:14.647Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:28:14.648Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:28:16.623Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:28:16.624Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:28:16.625Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:28:16.627Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:28:23.470Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:28:23.471Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:29:02.822Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:29:02.824Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:30:13.112Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:30:13.114Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:30:16.920Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:30:16.922Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:30:16.924Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:30:24.153Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:30:24.154Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:30:55.014Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:30:55.015Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:30:56.862Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:30:56.864Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:30:56.870Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:31:03.166Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:31:03.167Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:31:05.831Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:31:05.832Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:31:05.835Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:32:53.769Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:32:53.770Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:43:20.662Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:43:20.675Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:43:29.749Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T17:43:29.751Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T18:53:06.700Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T18:53:36.030Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:06:05.724Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:06:35.226Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:07:24.704Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:08:51.552Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:09:40.167Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:09:51.102Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:10:22.613Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:13:14.455Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:13:38.447Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:14:21.333Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:15:38.938Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:16:34.079Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:16:48.135Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:18:03.269Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:18:44.772Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:19:38.816Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:21:45.260Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:22:08.452Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:22:40.296Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:22:51.576Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:23:46.112Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T20:29:37.071Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:29:37.073Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:31:56.083Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:31:56.085Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:31:57.630Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:31:57.631Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:31:57.633Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:31:57.638Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:32:07.710Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:32:07.712Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:32:07.742Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:32:22.282Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:32:22.283Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:32:23.368Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:32:23.370Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:32:23.373Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:32:57.584Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:32:57.586Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:32:57.587Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:32:57.730Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:33:14.433Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:33:14.435Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:33:15.567Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:33:15.568Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:33:15.569Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T20:33:15.572Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:02:03.014Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:02:03.020Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:02:03.030Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:02:03.033Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:02:07.196Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:02:07.200Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:02:31.769Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:02:31.777Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:04:33.198Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T21:04:56.333Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T21:05:26.068Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T21:06:05.813Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T21:10:40.082Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T21:12:55.776Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T21:16:46.605Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T21:19:29.576Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T21:20:00.670Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T21:21:09.189Z - 
+    Ruta: POST /register - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T21:21:49.289Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:21:49.292Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:27:03.191Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:27:03.203Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:27:31.763Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:27:31.765Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:27:33.171Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:27:33.172Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:27:33.173Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:27:33.178Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:27:47.970Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:27:47.972Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:27:49.226Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:27:49.228Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:27:49.229Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:27:49.233Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:37:52.831Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:37:52.843Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:37:54.025Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:37:54.027Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:37:54.031Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    IP: ::1
+
+    2024-12-24T21:42:58.407Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T21:43:45.398Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"pruebaaaaa@example.com","password":"11111","rol":"RolPruebaFinal","lenguage":"Java"} - 
+    IP: ::ffff:127.0.0.1
+
+    2024-12-24T21:44:43.432Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2024-12-24T21:44:43.434Z - 
+    Ruta: POST /usuarios - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"docente@desafiolatam.com","password":"111111","rol":"Frontend Developer","lenguage":"Python"} - 
+    IP: ::1
+
+    2024-12-24T21:44:49.023Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2024-12-24T21:44:49.025Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"docente@desafiolatam.com","password":"1111111"} - 
+    IP: ::1
+
+    2024-12-24T21:44:51.783Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"docente@desafiolatam.com","password":"11111111"} - 
+    IP: ::1
+
+    2024-12-24T21:44:53.647Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"docente@desafiolatam.com","password":"111111111"} - 
+    IP: ::1
+
+    2024-12-24T21:44:59.408Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2024-12-24T21:44:59.409Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"docente@desafiolatam.com","password":"111111111"} - 
+    IP: ::1
+
+    2024-12-24T21:45:15.167Z - 
+    Ruta: OPTIONS /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2024-12-24T21:45:15.169Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"simon@gmail.com","password":"123456"} - 
+    IP: ::1
+
+    2024-12-24T21:45:19.895Z - 
+    Ruta: POST /login - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {"email":"simon@gmail.com","password":"123123"} - 
+    IP: ::1
+
+    2024-12-24T21:45:21.223Z - 
+    Ruta: OPTIONS /usuarios - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2024-12-24T21:45:21.225Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
+
+    2024-12-24T21:45:21.230Z - 
+    Ruta: GET /usuarios - 
+    Consultas: {} - 
+    Parámetros: {} - 
+    Cuerpo: {} - 
+    IP: ::1
